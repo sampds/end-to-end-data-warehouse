@@ -1,0 +1,5 @@
+MS Visual Studio 2019
+MS Power BI Desktop 2.124.1052.0
+MS SQL Server 2019
+MS SSMS 18
+MS Excel 2021
